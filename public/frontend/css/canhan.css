@@ -1,0 +1,33 @@
+
+.tab-duocchon{
+	margin-left: 15px;
+	width: 200px;
+	height: 40px;
+	
+}
+.tab-khongchon{
+	margin-left: 10px;
+	width: 200px;
+	height: 40px;
+	border-radius: 5px;
+	border: none;
+
+	color: #666666;
+	font-weight: bold;
+}
+
+.inf-canhan{
+	margin-top: 100px;
+}
+.inf-canhan *{
+	margin-top: 3px;
+}
+.input-canhan{
+	margin-bottom: 20px;
+	background-color: #FBFBFD;
+}
+
+.btn-luu{
+	width: 180px;
+	height: 40px;
+}
